@@ -4,5 +4,5 @@
 # or whitespace (' ').
 class EmailParser
   @@EmailParser
-  attr_accessor :
+  
 end
